@@ -1,4 +1,4 @@
-<img width="251" height="42" alt="g44" src="https://github.com/user-attachments/assets/3ff570da-ee2b-49a4-8df5-17ea80345cf3" />
+<img width="376.5" height="63" alt="g44" src="https://github.com/user-attachments/assets/3ff570da-ee2b-49a4-8df5-17ea80345cf3" />
 
 <h2>📚 Embedded System Lab GitHub Community Resources</h2>
 
