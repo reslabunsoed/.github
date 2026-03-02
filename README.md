@@ -22,3 +22,12 @@ Repositori <code>.github</code> merupakan fitur khusus GitHub yang membantu mens
     Panduan Kontribusi: Dokumen utama yang menjadi dasar strategi kolaborasi laboratorium. Panduan ini menjelaskan tata cara berkontribusi secara efektif sesuai standar dan alur kerja yang berlaku, guna menjaga produktivitas, profesionalisme, dan kualitas proyek yang dikembangkan.
   </li>
 </ul>
+
+<h2>🗣️ Kontribusi dan Umpan Balik</h2>
+<p>Kami sangat menghargai umpan balik, ide, dan kontribusi dari seluruh mahasiswa dan pengguna modul ini. Setiap masukan, perbaikan kode, maupun pengembangan fitur akan membantu meningkatkan kualitas modul praktikum Sistem Tertanam yang kita kembangkan bersama.</p>
+
+<p>Jika Anda tertarik untuk berkontribusi, silakan terlebih dahulu membaca Panduan Kontribusi Modul Praktikum yang tersedia pada repositori ini. Panduan tersebut menjelaskan tata cara pelaporan bug, pengajuan perbaikan (pull request), standar penulisan kode, serta struktur dokumentasi yang digunakan.</p>
+
+<p>Kami juga ingin mengetahui pengalaman Anda selama menggunakan modul ini. Silakan luangkan waktu untuk mengisi Form Evaluasi dan Umpan Balik Praktikum, agar modul ini dapat terus disempurnakan dan disesuaikan dengan kebutuhan pembelajaran.</p>
+
+<p>Kontribusi Anda tidak hanya membantu pengembangan modul, tetapi juga melatih keterampilan kolaborasi dan praktik pengembangan sistem tertanam berbasis open-source.</p>
