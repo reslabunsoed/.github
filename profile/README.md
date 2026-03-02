@@ -8,8 +8,11 @@
 </div>
 
 <div align="center" padding: 25px 0;>
-  <a href="https://github.com/reslabunsoed" target="blank"><img width="40" height="40" alt="github-logo" src="https://github.com/user-attachments/assets/f1751ed3-3720-456e-afae-69a200afb1d0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/uckypradestha" target="blank"><img width="40" height="40" alt="linkedin" src="https://github.com/user-attachments/assets/aee54188-0d0e-4b34-9920-14412653015b" />
+  <a href="https://github.com/reslabunsoed" target="blank"><img width="30" height="30" alt="path4" src="https://github.com/user-attachments/assets/3a085595-c276-4cec-93b2-2d4a58fff295" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
+  <a href="https://linkedin.com/in/uckypradestha" target="blank"><img width="30" height="30" alt="path3" src="https://github.com/user-attachments/assets/62a0e6eb-edb9-4912-bfef-6b9bb359ff09" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/uckypradestha" target="blank"><img width="30" height="35" alt="path1" src="https://github.com/user-attachments/assets/63a506e2-970f-444b-8df9-b6fff40a9a92" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/uckypradestha" target="blank"><img width="40" height="66" alt="path2" src="https://github.com/user-attachments/assets/9cb11353-2d16-44f6-b7ea-c6f67b12a3ae" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
