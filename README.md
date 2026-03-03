@@ -26,7 +26,7 @@ Repositori <code>.github</code> merupakan fitur khusus GitHub yang membantu mens
 <h2>🗣️ Kontribusi dan Umpan Balik</h2>
 <p>Kami sangat menghargai umpan balik, ide, dan kontribusi dari seluruh mahasiswa dan pengguna modul ini. Setiap masukan, perbaikan kode, maupun pengembangan fitur akan membantu meningkatkan kualitas modul praktikum Sistem Tertanam yang kita kembangkan bersama.</p>
 
-<p>Jika Anda tertarik untuk berkontribusi, silakan terlebih dahulu membaca Panduan Kontribusi Modul Praktikum yang tersedia pada repositori ini. Panduan tersebut menjelaskan tata cara pelaporan bug, pengajuan perbaikan (pull request), standar penulisan kode, serta struktur dokumentasi yang digunakan.</p>
+<p>Jika Anda tertarik untuk berkontribusi, silakan terlebih dahulu membaca <a href="CONTRIBUTION.md">Panduan Kontribusi Modul Praktikum</a> yang tersedia pada repositori ini. Panduan tersebut menjelaskan tata cara pelaporan bug, pengajuan perbaikan (pull request), standar penulisan kode, serta struktur dokumentasi yang digunakan.</p>
 
 <p>Kami juga ingin mengetahui pengalaman Anda selama menggunakan modul ini. Silakan luangkan waktu untuk mengisi Form Evaluasi dan Umpan Balik Praktikum, agar modul ini dapat terus disempurnakan dan disesuaikan dengan kebutuhan pembelajaran.</p>
 
