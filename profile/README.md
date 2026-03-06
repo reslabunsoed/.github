@@ -3,7 +3,7 @@
 <p>Repositori ini menyediakan modul praktikum, dokumentasi eksperimen, serta contoh implementasi pemrograman dan rangkaian yang digunakan dalam kegiatan pembelajaran dan penelitian di bidang:
 <ul>
   <li>Elektronika dan Sistem Digital</li>
-  <li>Embedded System dan Mikrokontroler</li>
+  <li><a href="https://github.com/reslabunsoed/embeddedsystem">Embedded System dan Mikrokontroler</a></li>
   <li>Internet of Things (IoT)</li>
   <li>Robotika</li>
 </ul>
