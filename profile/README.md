@@ -1,11 +1,28 @@
-<div align="center">
-  <img width="988,75" height="277,5" alt="g9" src="https://github.com/user-attachments/assets/66768da8-e1e1-41b3-a6d7-d32a1147615d" />
-</div>
-<br>
-<div align="center">
-  <p>Di Laboratorium Embedded System, kami berkomitmen untuk mengembangkan solusi sistem tertanam terbaik yang inovatif, andal, dan berdampak luas. Proyek-proyek open-source yang kami kembangkan di GitHub menghadirkan solusi mutakhir untuk berbagai bidang, termasuk pengembangan firmware, Internet of Things (IoT), sistem kendali, robotika, integrasi sensor, serta perangkat keras cerdas 🚀</p>
-  <p>Kami terbuka terhadap kontribusi dari komunitas global 🌍 dan selalu menyambut masukan berupa usulan fitur, ide penelitian, maupun laporan bug. Kolaborasi yang solid menjadi fondasi utama dalam menciptakan sistem yang efisien, aman, dan siap diterapkan di dunia nyata.</p>
-</div>
+## 👋🏻 Selamat Datang di Laboratorium Robotics and Embedded System
+
+<p>Repositori ini menyediakan modul praktikum, dokumentasi eksperimen, serta contoh implementasi pemrograman dan rangkaian yang digunakan dalam kegiatan pembelajaran dan penelitian di bidang:
+<ul>
+  <li>Elektronika dan Sistem Digital</li>
+  <li>Embedded System dan Mikrokontroler</li>
+  <li>Internet of Things (IoT)</li>
+  <li>Robotika</li>
+</ul>
+
+<p>Tujuan dari repositori ini adalah untuk menyediakan sumber belajar yang terstruktur, terbuka, dan mudah diakses bagi mahasiswa dalam memahami konsep serta implementasi teknologi sistem tertanam.</p>
+<p>Materi disusun secara bertahap mulai dari konsep dasar hingga implementasi proyek, sehingga dapat membantu mahasiswa memahami teori sekaligus praktik secara langsung.</p>
+
+💡 Gunakan modul-modul yang tersedia untuk mendukung proses eksperimen, analisis, dan pengembangan proyek.
+
+<h2>🤝 Cara Berkontribusi</h2>
+<ul>
+  <li>Coba reproduksi masalah yang dilaporkan oleh pengguna lain pada modul praktikum, baik pada kode program, rangkaian, maupun langkah eksperimen. Konfirmasikan apakah masalah tersebut dapat direplikasi atau tidak serta bantu memperjelas deskripsi issue.</li>
+  <li>Pilih issue atau bagian modul yang dapat diperbaiki seperti kesalahan kode, diagram rangkaian, atau penjelasan materi. Kirimkan perbaikan melalui pull request dengan penjelasan perubahan yang dilakukan.</li>
+  <li>Uji implementasi kode atau rangkaian pada hardware atau development board yang tersedia dan laporkan hasil pengujian Anda.</li>
+  <li>Bantu meninjau pull request dari kontributor lain dengan memberikan masukan terkait kualitas kode, instruksi praktikum, maupun desain eksperimen.</li>
+  <li>Bantu memperbaiki atau menambahkan dokumentasi seperti penjelasan materi, diagram rangkaian, dan langkah praktikum.</li>
+</ul>
+
+##
 
 <div align="center">
   <a href="https://github.com/reslabunsoed" target="blank"><img width="30" height="30" alt="path4" src="https://github.com/user-attachments/assets/3a085595-c276-4cec-93b2-2d4a58fff295" />
