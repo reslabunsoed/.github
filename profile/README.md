@@ -25,14 +25,14 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/reslabunsoed" target="blank"><img width="30" height="30" alt="path4" src="https://github.com/user-attachments/assets/3a085595-c276-4cec-93b2-2d4a58fff295" />
+  <a href="https://github.com/reslabunsoed" target="blank"><img width="20" height="20" alt="path4" src="https://github.com/user-attachments/assets/3a085595-c276-4cec-93b2-2d4a58fff295" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="25"/>
-  <a href="https://linkedin.com/in/uckypradestha" target="blank"><img width="30" height="30" alt="path3" src="https://github.com/user-attachments/assets/62a0e6eb-edb9-4912-bfef-6b9bb359ff09" />
+  <a href="https://linkedin.com/in/uckypradestha" target="blank"><img width="20" height="20" alt="path3" src="https://github.com/user-attachments/assets/62a0e6eb-edb9-4912-bfef-6b9bb359ff09" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="25"/>
-  <a href="https://linkedin.com/in/uckypradestha" target="blank"><img width="30" height="35" alt="path1" src="https://github.com/user-attachments/assets/63a506e2-970f-444b-8df9-b6fff40a9a92" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/uckypradestha" target="blank"><img width="20" height="25" alt="path1" src="https://github.com/user-attachments/assets/63a506e2-970f-444b-8df9-b6fff40a9a92" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="25"/>
-  <a href="https://linkedin.com/in/uckypradestha" target="blank"><img width="40" height="66" alt="path2" src="https://github.com/user-attachments/assets/9cb11353-2d16-44f6-b7ea-c6f67b12a3ae" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/uckypradestha" target="blank"><img width="20" height="46" alt="path2" src="https://github.com/user-attachments/assets/9cb11353-2d16-44f6-b7ea-c6f67b12a3ae" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
