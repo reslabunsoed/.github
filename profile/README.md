@@ -1,6 +1,7 @@
 ## 👋🏻 Selamat Datang di Laboratorium Robotics and Embedded System
 
 Repositori ini menyediakan modul praktikum, dokumentasi eksperimen, serta contoh implementasi pemrograman dan rangkaian yang digunakan dalam kegiatan pembelajaran Sistem Tertanam dan Sistem Mikrokontroler yaitu:
+- <a href="">Pengantar Modul</a>
 - <a href="">Modul 1: Percabangan dan Perulangan</a>
 - <a href="">Modul 2: Pemrograman GPIO</a>
 - <a href="">Modul 3: Protokol Komunikasi</a>
