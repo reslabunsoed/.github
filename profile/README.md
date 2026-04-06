@@ -4,7 +4,7 @@ Repositori ini menyediakan modul praktikum, dokumentasi eksperimen, serta contoh
 - <a href="">Pengantar Modul</a>
 - <a href="">Modul 1: Percabangan dan Perulangan</a>
 - <a href="">Modul 2: Pemrograman GPIO</a>
-- <a href="https://github.com/reslabunsoed/modul3_protokolKomunikasi" target="_blank">Modul 3: Protokol Komunikasi</a>
+- <a href="https://github.com/reslabunsoed/modul3_protokolKomunikasi" target="blank">Modul 3: Protokol Komunikasi</a>
 - <a href="">Modul 4: ADC dan DAC</a>
 - <a href="">Modul 5: Real Time Operating System (RTOS)</a>
 
