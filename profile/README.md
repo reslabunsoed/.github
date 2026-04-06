@@ -1,15 +1,14 @@
 ## 👋🏻 Selamat Datang di Laboratorium Robotics and Embedded System
 
-<p>Repositori ini menyediakan modul praktikum, dokumentasi eksperimen, serta contoh implementasi pemrograman dan rangkaian yang digunakan dalam kegiatan pembelajaran dan penelitian di bidang:
-<ul>
-  <li>Elektronika dan Sistem Digital</li>
-  <li><a href="https://github.com/reslabunsoed/embeddedsystem">Embedded System dan Mikrokontroler</a></li>
-  <li>Internet of Things (IoT)</li>
-  <li>Robotika</li>
-</ul>
+Repositori ini menyediakan modul praktikum, dokumentasi eksperimen, serta contoh implementasi pemrograman dan rangkaian yang digunakan dalam kegiatan pembelajaran dan penelitian di bidang:
+- Elektronika dan Sistem Digital
+- Embedded System dan Mikrokontroler
+- Internet of Things (IoT)
+- Robotika
 
-<p>Tujuan dari repositori ini adalah untuk menyediakan sumber belajar yang terstruktur, terbuka, dan mudah diakses bagi mahasiswa dalam memahami konsep serta implementasi teknologi sistem tertanam.</p>
-<p>Materi disusun secara bertahap mulai dari konsep dasar hingga implementasi proyek, sehingga dapat membantu mahasiswa memahami teori sekaligus praktik secara langsung.</p>
+Tujuan dari repositori ini adalah untuk menyediakan sumber belajar yang terstruktur, terbuka, dan mudah diakses bagi mahasiswa dalam memahami konsep serta implementasi teknologi sistem tertanam.
+
+Materi disusun secara bertahap mulai dari konsep dasar hingga implementasi proyek, sehingga dapat membantu mahasiswa memahami teori sekaligus praktik secara langsung.
 
 💡 Gunakan modul-modul yang tersedia untuk mendukung proses eksperimen, analisis, dan pengembangan proyek.
 
