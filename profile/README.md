@@ -22,17 +22,19 @@
   <li>Bantu memperbaiki atau menambahkan dokumentasi seperti penjelasan materi, diagram rangkaian, dan langkah praktikum.</li>
 </ul>
 
-##
+<h2></h2>
 
+<br>
 <div align="center">
-  <a href="https://github.com/reslabunsoed" target="blank"><img width="20" height="20" alt="path4" src="https://github.com/user-attachments/assets/3a085595-c276-4cec-93b2-2d4a58fff295" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="25"/>
-  <a href="https://linkedin.com/in/uckypradestha" target="blank"><img width="20" height="20" alt="path3" src="https://github.com/user-attachments/assets/62a0e6eb-edb9-4912-bfef-6b9bb359ff09" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="25"/>
-  <a href="https://linkedin.com/in/uckypradestha" target="blank"><img width="20" height="25" alt="path1" src="https://github.com/user-attachments/assets/63a506e2-970f-444b-8df9-b6fff40a9a92" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="25"/>
-  <a href="https://linkedin.com/in/uckypradestha" target="blank"><img width="20" height="46" alt="path2" src="https://github.com/user-attachments/assets/9cb11353-2d16-44f6-b7ea-c6f67b12a3ae" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/uckypradestha"><img src="https://github.com/uckypradestha/assets/raw/main/social/logo-social-github.png" width="3%" alt="Ultralytics GitHub"></a>
+  <img src="https://github.com/uckypradestha/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+  <a href="https://www.linkedin.com/uckypradestha/"><img src="https://github.com/uckypradestha/assets/raw/main/social/logo-social-linkedin.png" width="3%" alt="Ultralytics LinkedIn"></a>
+  <img src="https://github.com/uckypradestha/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+  <a href="https://twitter.com/uckypradestha"><img src="https://github.com/uckypradestha/assets/raw/main/social/logo-social-twitter.png" width="3%" alt="Ultralytics Twitter"></a>
+  <img src="https://github.com/uckypradestha/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+  <a href="https://www.youtube.com/@ckypradestha"><img src="https://github.com/uckypradestha/assets/raw/main/social/logo-social-youtube.png" width="3%" alt="Ultralytics YouTube"></a>
+  <img src="https://github.com/uckypradestha/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
+  <a href="https://www.tiktok.com/@pradestha"><img src="https://github.com/uckypradestha/assets/raw/main/social/logo-social-tiktok.png" width="3%" alt="Ultralytics TikTok"></a>
+  <img src="https://github.com/uckypradestha/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
 </div>
 
