@@ -24,7 +24,7 @@ Praktikum ini memperkenalkan konsep dasar Real-Time Operating System (RTOS), ter
 
 Tujuan dari repositori ini adalah untuk menyediakan sumber belajar yang terstruktur, terbuka, dan mudah diakses bagi mahasiswa dalam memahami konsep serta implementasi teknologi sistem tertanam dan sistem mikrokontroler.
 
-Materi disusun secara bertahap mulai dari konsep dasar hingga implementasi proyek, sehingga dapat membantu mahasiswa memahami teori sekaligus praktik secara langsung.
+> Materi disusun secara bertahap mulai dari konsep dasar hingga implementasi proyek, sehingga dapat membantu mahasiswa memahami teori sekaligus praktik secara langsung.
 
 💡 Gunakan modul-modul yang tersedia untuk mendukung proses eksperimen, analisis, dan pengembangan proyek.
 
