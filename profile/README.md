@@ -1,7 +1,9 @@
 ## 👋🏻 Selamat Datang di Laboratorium Robotics and Embedded System
 
 Repositori ini menyediakan modul praktikum, dokumentasi eksperimen, serta contoh implementasi pemrograman dan rangkaian yang digunakan dalam kegiatan pembelajaran Sistem Tertanam dan Sistem Mikrokontroler yaitu:
-- <a href="">Pengantar Modul</a>
+- <a href="https://github.com/reslabunsoed/pengantar_praktikum_embedded">Pengantar Modul</a>
+
+Praktikum disusun berdasarkan pendekatan pemrograman mulai dari Bare-Metal Programming sampai dengan Real-Time Operating System (RTOS)
 - <a href="">Modul 1: Percabangan dan Perulangan</a>
 
 Praktikum ini mempelajari penggunaan percabangan dan perulangan pada pemrograman Arduino untuk mengontrol alur logika program dan menghasilkan perilaku sistem yang dinamis.
@@ -17,6 +19,8 @@ Praktikum ini mempelajari konversi sinyal analog ke digital (ADC) dan digital ke
 - <a href="">Modul 5: Real Time Operating System (RTOS)</a>
 
 Praktikum ini memperkenalkan konsep dasar Real-Time Operating System (RTOS), termasuk pengelolaan task dan penjadwalan sederhana, untuk memahami pengembangan aplikasi multitasking pada sistem mikrokontroler.
+
+<h2>🎯 Tujuan Modul</h2>
 
 Tujuan dari repositori ini adalah untuk menyediakan sumber belajar yang terstruktur, terbuka, dan mudah diakses bagi mahasiswa dalam memahami konsep serta implementasi teknologi sistem tertanam dan sistem mikrokontroler.
 
