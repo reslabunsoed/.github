@@ -1,22 +1,22 @@
 ## 👋🏻 Selamat Datang di Laboratorium Robotics and Embedded System
 
 Repositori ini menyediakan modul praktikum, dokumentasi eksperimen, serta contoh implementasi pemrograman dan rangkaian yang digunakan dalam kegiatan pembelajaran Sistem Tertanam dan Sistem Mikrokontroler yaitu:
-- <a href="https://github.com/reslabunsoed/pengantar_praktikum_embedded">Pengantar Modul</a>
+- <h2><a href="https://github.com/reslabunsoed/pengantar_praktikum_embedded">Pengantar Modul</a></h2>
 
 Praktikum disusun berdasarkan pendekatan pemrograman mulai dari Bare-Metal Programming sampai dengan Real-Time Operating System (RTOS)
-- <a href="">Modul 1: Percabangan dan Perulangan</a>
+- <h2><a href="">Modul 1: Percabangan dan Perulangan</a></h2>
 
 Praktikum ini mempelajari penggunaan percabangan dan perulangan pada pemrograman Arduino untuk mengontrol alur logika program dan menghasilkan perilaku sistem yang dinamis.
-- <a href="">Modul 2: Pemrograman GPIO</a>
+- <h2><a href="">Modul 2: Pemrograman GPIO</a></h2>
 
 Praktikum ini membahas penggunaan pin GPIO pada mikrokontroler sebagai input dan output untuk mengendalikan perangkat digital seperti LED dan membaca kondisi tombol, sehingga mahasiswa memahami dasar interaksi perangkat keras dengan program.
-- <a href="https://github.com/reslabunsoed/modul3_protokolKomunikasi" target="blank">Modul 3: Protokol Komunikasi</a>
+- <h2><a href="https://github.com/reslabunsoed/modul3_protokolKomunikasi" target="blank">Modul 3: Protokol Komunikasi</a></h2>
 
 Praktikum ini memperkenalkan protokol komunikasi pada Arduino, meliputi komunikasi serial (UART) dan I2C (Inter-Integrated Circuit) untuk pertukaran data antara board Arduino dengan komputer maupun antar perangkat.
-- <a href="">Modul 4: ADC dan DAC</a>
+- <h2><a href="">Modul 4: ADC dan DAC</a></h2>
 
 Praktikum ini mempelajari konversi sinyal analog ke digital (ADC) dan digital ke analog (DAC) pada mikrokontroler untuk membaca sensor analog dan menghasilkan keluaran analog sesuai kebutuhan aplikasi.
-- <a href="">Modul 5: Real Time Operating System (RTOS)</a>
+- <h2><a href="">Modul 5: Real Time Operating System (RTOS)</a></h2>
 
 Praktikum ini memperkenalkan konsep dasar Real-Time Operating System (RTOS), termasuk pengelolaan task dan penjadwalan sederhana, untuk memahami pengembangan aplikasi multitasking pada sistem mikrokontroler.
 
