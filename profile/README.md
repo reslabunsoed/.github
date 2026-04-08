@@ -7,7 +7,7 @@ Praktikum disusun berdasarkan pendekatan pemrograman mulai dari Bare-Metal Progr
 - <h2><a href="">Modul 1: Percabangan dan Perulangan</a></h2>
 
 Praktikum ini mempelajari penggunaan percabangan dan perulangan pada pemrograman Arduino untuk mengontrol alur logika program dan menghasilkan perilaku sistem yang dinamis.
-- <h2><a href="">Modul 2: Pemrograman GPIO</a></h2>
+- <h2><a href="https://github.com/reslabunsoed/modul2_percabanganDanPerulangan">Modul 2: Pemrograman GPIO</a></h2>
 
 Praktikum ini membahas penggunaan pin GPIO pada mikrokontroler sebagai input dan output untuk mengendalikan perangkat digital seperti LED dan membaca kondisi tombol, sehingga mahasiswa memahami dasar interaksi perangkat keras dengan program.
 - <h2><a href="https://github.com/reslabunsoed/modul3_protokolKomunikasi" target="blank">Modul 3: Protokol Komunikasi</a></h2>
