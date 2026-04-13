@@ -16,7 +16,7 @@ Praktikum ini memperkenalkan protokol komunikasi pada Arduino, meliputi komunika
 - <h2><a href="https://github.com/reslabunsoed/modul4_adc_pwm" target="blank">Modul 4: ADC dan PWM</a></h2>
 
 Praktikum ini mempelajari konversi sinyal analog ke digital (ADC) dan digital ke analog (DAC) pada mikrokontroler untuk membaca sensor analog dan menghasilkan keluaran analog sesuai kebutuhan aplikasi.
-- <h2><a href="">Modul 5: Real Time Operating System (RTOS)</a></h2>
+- <h2><a href="https://github.com/reslabunsoed/modul5_rtos" target="blank">Modul 5: Real Time Operating System (RTOS)</a></h2>
 
 Praktikum ini memperkenalkan konsep dasar Real-Time Operating System (RTOS), termasuk pengelolaan task dan penjadwalan sederhana, untuk memahami pengembangan aplikasi multitasking pada sistem mikrokontroler.
 
