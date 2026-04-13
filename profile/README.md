@@ -10,7 +10,7 @@ Praktikum ini mempelajari penggunaan percabangan dan perulangan pada pemrograman
 - <h2><a href="https://github.com/reslabunsoed/modul2_pemrograman_gpio" target="blank">Modul 2: Pemrograman GPIO</a></h2>
 
 Praktikum ini membahas penggunaan pin GPIO pada mikrokontroler sebagai input dan output untuk mengendalikan perangkat digital seperti LED dan membaca kondisi tombol, sehingga mahasiswa memahami dasar interaksi perangkat keras dengan program.
-- <h2><a href="https://github.com/reslabunsoed/modul3_protokolKomunikasi" target="blank">Modul 3: Protokol Komunikasi</a></h2>
+- <h2><a href="https://github.com/reslabunsoed/modul3_protokol_komunikasi" target="blank">Modul 3: Protokol Komunikasi</a></h2>
 
 Praktikum ini memperkenalkan protokol komunikasi pada Arduino, meliputi komunikasi serial (UART) dan I2C (Inter-Integrated Circuit) untuk pertukaran data antara board Arduino dengan komputer maupun antar perangkat.
 - <h2><a href="https://github.com/reslabunsoed/modul4_adc_pwm" target="blank">Modul 4: ADC dan PWM</a></h2>
