@@ -1,4 +1,4 @@
-<h1>👋🏻 Selamat Datang di Laboratorium Robotika dan Embedded System</h1>
+#👋🏻 Selamat Datang di Laboratorium Robotika dan Embedded System
 
 Repositori ini menyediakan modul praktikum, dokumentasi eksperimen, serta contoh implementasi pemrograman dan rangkaian yang digunakan dalam kegiatan pembelajaran Sistem Tertanam dan Sistem Mikrokontroler yaitu:
 - <h2><a href="https://github.com/reslabunsoed/pengantar_praktikum_embedded">Pengantar Modul</a></h2>
@@ -20,7 +20,7 @@ Praktikum ini mempelajari konversi sinyal analog ke digital (ADC) dan digital ke
 
 Praktikum ini memperkenalkan konsep dasar Real-Time Operating System (RTOS), termasuk pengelolaan task dan penjadwalan sederhana, untuk memahami pengembangan aplikasi multitasking pada sistem mikrokontroler.
 
-<h2>🎯 Tujuan Modul</h2>
+## 🎯 Tujuan Modul
 
 Tujuan dari repositori ini adalah untuk menyediakan sumber belajar yang terstruktur, terbuka, dan mudah diakses bagi mahasiswa dalam memahami konsep serta implementasi teknologi sistem tertanam dan sistem mikrokontroler.
 
@@ -28,7 +28,34 @@ Tujuan dari repositori ini adalah untuk menyediakan sumber belajar yang terstruk
 
 💡 Gunakan modul-modul yang tersedia untuk mendukung proses eksperimen, analisis, dan pengembangan proyek.
 
-<h2>🤝 Cara Berkontribusi</h2>
+## 📄 Template Modul Praktikum
+
+Repository ini merupakan template modul praktikum Sistem Mikrokontroler yang dirancang untuk membantu penyusunan materi praktikum secara terstruktur, sistematis, dan mudah digunakan oleh mahasiswa maupun praktikan.
+
+Template ini bertujuan untuk memberikan panduan standar dalam menyusun modul praktikum, mulai dari tujuan praktikum, teori dasar, hingga langkah-langkah percobaan dan evaluasi. Dengan menggunakan template ini, diharapkan setiap modul memiliki format yang konsisten sehingga lebih mudah dipahami dan diimplementasikan.
+
+### Cara Menggunakan Template
+- Klik tombol "Use this template" pada repository ini.
+- Buat repository baru sebagai salinan template.
+- Clone repository ke perangkat lokal:
+```git
+git clone https://github.com/reslabunsoed/template_modul_sismik.git
+```
+- Sesuaikan isi modul pada setiap bagian sesuai dengan topik praktikum.
+- Tambahkan kode program, rangkaian, dan dokumentasi hasil percobaan.
+
+## Struktur Modul 
+Berikut struktur umum dalam template modul praktikum:
+```git
+Modul Praktikum/
+├─ Percobaan 1/
+├─ Percobaan 2/
+├─ .gitignore
+├─ LICENSE
+└─ README.md
+```
+
+## 🤝 Cara Berkontribusi
 
 - Coba reproduksi masalah yang dilaporkan oleh pengguna lain pada modul praktikum, baik pada kode program, rangkaian, maupun langkah eksperimen. Konfirmasikan apakah masalah tersebut dapat direplikasi atau tidak serta bantu memperjelas deskripsi issue.
 - Pilih issue atau bagian modul yang dapat diperbaiki seperti kesalahan kode, diagram rangkaian, atau penjelasan materi. Kirimkan perbaikan melalui pull request dengan penjelasan perubahan yang dilakukan.
