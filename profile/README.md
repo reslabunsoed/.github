@@ -15,7 +15,7 @@ Praktikum ini membahas penggunaan pin GPIO pada mikrokontroler sebagai input dan
 Praktikum ini memperkenalkan protokol komunikasi pada Arduino, meliputi komunikasi serial (UART) dan I2C (Inter-Integrated Circuit) untuk pertukaran data antara board Arduino dengan komputer maupun antar perangkat.
 - <h2><a href="https://github.com/reslabunsoed/modul4_adc_pwm" target="blank">Modul 4: ADC dan PWM</a></h2>
 
-Praktikum ini mempelajari konversi sinyal analog ke digital (ADC) dan digital ke analog (DAC) pada mikrokontroler untuk membaca sensor analog dan menghasilkan keluaran analog sesuai kebutuhan aplikasi.
+Praktikum ini mempelajari konversi sinyal analog ke digital (ADC) dan digital ke analog (DAC) atau Pulse Width Modulation (PWM) pada mikrokontroler untuk membaca sensor analog dan menghasilkan keluaran analog sesuai kebutuhan aplikasi.
 - <h2><a href="https://github.com/reslabunsoed/modul5_rtos" target="blank">Modul 5: Real Time Operating System (RTOS)</a></h2>
 
 Praktikum ini memperkenalkan konsep dasar Real-Time Operating System (RTOS), termasuk pengelolaan task dan penjadwalan sederhana, untuk memahami pengembangan aplikasi multitasking pada sistem mikrokontroler.
