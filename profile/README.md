@@ -57,11 +57,20 @@ Modul Praktikum/
 
 ## 🤝 Cara Berkontribusi
 
-- Coba reproduksi masalah yang dilaporkan oleh pengguna lain pada modul praktikum, baik pada kode program, rangkaian, maupun langkah eksperimen. Konfirmasikan apakah masalah tersebut dapat direplikasi atau tidak serta bantu memperjelas deskripsi issue.
-- Pilih issue atau bagian modul yang dapat diperbaiki seperti kesalahan kode, diagram rangkaian, atau penjelasan materi. Kirimkan perbaikan melalui pull request dengan penjelasan perubahan yang dilakukan.
-- Uji implementasi kode atau rangkaian pada hardware atau development board yang tersedia dan laporkan hasil pengujian Anda.
-- Bantu meninjau pull request dari kontributor lain dengan memberikan masukan terkait kualitas kode, instruksi praktikum, maupun desain eksperimen.
-- Bantu memperbaiki atau menambahkan dokumentasi seperti penjelasan materi, diagram rangkaian, dan langkah praktikum.</li>
+Terima kasih sudah menjadi bagian dari Repository Modul Praktikum! Kami mengapresiasi setiap pihak yang membantu kami dalam menumbuhkan modul ini.
+
+### Kategori Kontribusi
+
+- Dokumentasi (Documentation): Meningkatkan atau menambahkan dokumentasi modul, seperti penjelasan teori, wiring diagram, datasheet, dan penjelasan kode program.
+- Tutorial & Panduan (Tutorials & Guides): Membuat atau memperbaiki tutorial praktikum, langkah penggunaan board (Arduino, ESP32, dll.), serta panduan implementasi proyek mikrokontroler.
+- Kode & Implementasi (Code Contributions): Menambahkan, memperbaiki, atau mengoptimalkan source code (Arduino IDE, PlatformIO, MicroPython, dll.) agar lebih efisien dan mudah dipahami.
+- Sumber Belajar (Suggested Resources): Merekomendasikan buku, artikel, video, datasheet, atau tools (seperti simulator Proteus, Wokwi, Tinkercad) yang relevan dengan mikrokontroler.
+- Ide Praktikum (Ideas / Topics): Mengusulkan topik praktikum baru seperti IoT, sensor interfacing, PWM, komunikasi serial, I2C, SPI, atau project berbasis ESP32/Arduino.
+- Review & Feedback: Memberikan masukan terhadap modul praktikum, seperti kejelasan instruksi, error pada code, atau perbaikan alur pembelajaran.
+- Troubleshooting & Community Support: Membantu menjawab masalah error, debugging hardware/software, atau diskusi di issues dan forum repository.
+- Project & Real-World Applications: Menyumbangkan contoh implementasi nyata seperti smart home, monitoring sensor, robotika, atau sistem otomasi industri.
+- Eksperimen & Pengujian (Tests & Experiments): Membuat pengujian terhadap rangkaian, sensor, atau program untuk memastikan modul berjalan sesuai spesifikasi.
+- Mentoring & Sharing Session: Membantu sesama kontributor atau mahasiswa melalui mentoring, sharing session, atau diskusi praktikum.
 
 
 <h2></h2>
