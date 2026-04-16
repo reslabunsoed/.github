@@ -55,9 +55,7 @@ Modul Praktikum/
 └─ README.md
 ```
 
-## Laporan Praktikum
-
-<h2>💡 Laporan Praktikum</h2>
+## 💡 Laporan Praktikum
 
 Setiap praktikum yang telah selesai dilakukan hasilnya dikumpulkan dalam bentuk laporan dan Kode yang digunakan melalui repository masing-masing modul dalam direktory modul ```praktikum/Laporan Praktikum``` sesuai template direktory repository [Laporan Praktikum](https://github.com/reslabunsoed/laporan_praktikum.git) dengan format sebagai berikut:
   
