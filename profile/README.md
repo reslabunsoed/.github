@@ -77,7 +77,8 @@ Nama file laporan: [kode mata kuliah]_[modul ke]_[NIM] contoh TK2440005_01_H1H02
   </tr>
 </table>
 
-<h2>📓 Buku Catatan Praktikum</h2>
+# 📓 Buku Catatan Praktikum
+
 <p>Buku catatan praktikum adalah catatan yang digunakan dalam eksperimen langsung di laboratorium yang memuat aktivitas selama praktikum berlangsung berisi rangkaian, kode dan hasil yang bertujuan sebagai dokumentasi percobaan.</p>
 
 <p>Petunjuk pengisian Buku Catatan Praktikum adalah sebagai berikut:</p>
