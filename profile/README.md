@@ -2,7 +2,7 @@
 
 Repositori ini menyediakan modul praktikum, dokumentasi eksperimen, serta contoh implementasi pemrograman dan rangkaian yang digunakan dalam kegiatan pembelajaran Sistem Tertanam dan Sistem Mikrokontroler yaitu:
 
-## Modul Praktikum
+# Modul Praktikum
 - <h2><a href="https://github.com/reslabunsoed/pengantar_praktikum_embedded" target="blank">Pengantar Modul</a></h2>
 
 Praktikum disusun berdasarkan pendekatan pemrograman mulai dari Bare-Metal Programming sampai dengan Real-Time Operating System (RTOS)
@@ -22,7 +22,7 @@ Praktikum ini mempelajari konversi sinyal analog ke digital (ADC) dan digital ke
 
 Praktikum ini memperkenalkan konsep dasar Real-Time Operating System (RTOS), termasuk pengelolaan task dan penjadwalan sederhana, untuk memahami pengembangan aplikasi multitasking pada sistem mikrokontroler.
 
-## 🎯 Tujuan Modul
+# 🎯 Tujuan Modul
 
 Tujuan dari repositori ini adalah untuk menyediakan sumber belajar yang terstruktur, terbuka, dan mudah diakses bagi mahasiswa dalam memahami konsep serta implementasi teknologi sistem tertanam dan sistem mikrokontroler.
 
@@ -30,13 +30,13 @@ Tujuan dari repositori ini adalah untuk menyediakan sumber belajar yang terstruk
 
 💡 Gunakan modul-modul yang tersedia untuk mendukung proses eksperimen, analisis, dan pengembangan proyek.
 
-## 📄 Template Modul Praktikum
+# 📄 Template Modul Praktikum
 
 Repository ini merupakan template modul praktikum Sistem Mikrokontroler yang dirancang untuk membantu penyusunan materi praktikum secara terstruktur, sistematis, dan mudah digunakan oleh mahasiswa maupun praktikan.
 
 Template ini bertujuan untuk memberikan panduan standar dalam menyusun modul praktikum, mulai dari tujuan praktikum, teori dasar, hingga langkah-langkah percobaan dan evaluasi. Dengan menggunakan template ini, diharapkan setiap modul memiliki format yang konsisten sehingga lebih mudah dipahami dan diimplementasikan.
 
-### Cara Menggunakan Template
+## Cara Menggunakan Template
 - Klik tombol "Use this template" pada repository ini.
 - Buat repository baru sebagai salinan template.
 - Clone repository ke perangkat lokal:
@@ -57,7 +57,7 @@ Modul Praktikum/
 └─ README.md
 ```
 
-## 💡 Laporan Praktikum
+# 💡 Laporan Praktikum
 
 Setiap praktikum yang telah selesai dilakukan hasilnya dikumpulkan dalam bentuk laporan dan Kode yang digunakan melalui repository masing-masing modul dalam direktory modul ```praktikum/Laporan Praktikum``` sesuai template direktory repository [Laporan Praktikum](https://github.com/reslabunsoed/laporan_praktikum.git) dengan format sebagai berikut:
   
@@ -118,11 +118,11 @@ Nama file laporan: [kode mata kuliah]_[modul ke]_[NIM] contoh TK2440005_01_H1H02
   </tr>
 </table>
 
-## 🤝 Cara Berkontribusi
+# 🤝 Cara Berkontribusi
 
 Terima kasih sudah menjadi bagian dari Repository Modul Praktikum! Kami mengapresiasi setiap pihak yang membantu kami dalam menumbuhkan modul ini.
 
-### Kategori Kontribusi
+## Kategori Kontribusi
 
 - Dokumentasi (Documentation): Meningkatkan atau menambahkan dokumentasi modul, seperti penjelasan teori, wiring diagram, datasheet, dan penjelasan kode program.
 - Tutorial & Panduan (Tutorials & Guides): Membuat atau memperbaiki tutorial praktikum, langkah penggunaan board (Arduino, ESP32, dll.), serta panduan implementasi proyek mikrokontroler.
