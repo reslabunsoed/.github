@@ -1,6 +1,6 @@
 # 👋🏻 Selamat Datang di Laboratorium Robotika dan Embedded System
 
-Repositori ini menyediakan modul praktikum, dokumentasi eksperimen, serta contoh implementasi pemrograman dan rangkaian yang digunakan dalam kegiatan pembelajaran Sistem Tertanam dan Sistem Mikrokontroler yaitu:
+Repositori ini menyediakan modul praktikum, dokumentasi eksperimen, serta contoh implementasi pemrograman dan rangkaian yang digunakan dalam kegiatan pembelajaran Sistem Tertanam dan Sistem Mikrokontroler
 
 # Modul Praktikum
 - <h2><a href="https://github.com/reslabunsoed/pengantar_praktikum_embedded" target="blank">Pengantar Modul</a></h2>
